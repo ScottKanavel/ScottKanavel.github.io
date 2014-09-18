@@ -1,0 +1,7 @@
+<html>
+<body>
+<h1 id="title">Example of text</h1>
+<button onclick="move()" datarole="none">Button</button>
+<input type="text" id="textfield"/>
+</body>
+</html>
